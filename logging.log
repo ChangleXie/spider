@@ -1,0 +1,319 @@
+18-12-24 10:11-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:11-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:11-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:11-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:11-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /TV-DVD-Swivel-Stand-Wide/dp/B011J67Y0W/ref=pd_sbs_196_22?_encoding=UTF8&pd_rd_i=B011J67Y0W&pd_rd_r=e4fbb127-0275-11e9-9fc1-87cf5b4d0ae5&pd_rd_w=Nqk5w&pd_rd_wg=hxeRX&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=JE5SQN7W50EE5H58RTGY&psc=1&refRID=JE5SQN7W50EE5H58RTGY HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Furinno-FSP299BK-Simple-Swivel-Board/dp/B072ZQZX48/ref=pd_sbs_196_3?_encoding=UTF8&pd_rd_i=B072ZQZX48&pd_rd_r=8bb0eab3-0274-11e9-b252-797d8085bc39&pd_rd_w=XKaV0&pd_rd_wg=OioRy&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=ET5RWGXR3K3GQXWHP540&psc=1&refRID=ET5RWGXR3K3GQXWHP540 HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Aleratec-Swivel-2-Tier-Entertainment-Center/dp/B00TKXPYPY/ref=pd_sbs_196_2?_encoding=UTF8&pd_rd_i=B00TKXPYPY&pd_rd_r=8bb0eab3-0274-11e9-b252-797d8085bc39&pd_rd_w=XKaV0&pd_rd_wg=OioRy&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=ET5RWGXR3K3GQXWHP540&psc=1&refRID=ET5RWGXR3K3GQXWHP540 HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Prosumers-Choice-Bamboo-Rotating-Screens/dp/B078WYB3JV/ref=sr_1_109?ie=UTF8&qid=1544852200&sr=8-109&keywords=100%25+bamboo+office+desk HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Prosumers-Choice-Rotating-Bearings-Monitors/dp/B06XKG9B9J/ref=pd_sbs_196_25?_encoding=UTF8&pd_rd_i=B06XKG9B9J&pd_rd_r=e4fbb127-0275-11e9-9fc1-87cf5b4d0ae5&pd_rd_w=Nqk5w&pd_rd_wg=hxeRX&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=JE5SQN7W50EE5H58RTGY&psc=1&refRID=JE5SQN7W50EE5H58RTGY HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Prosumers-Choice-Monitor-Removable-Pull-Out/dp/B07613Y447/ref=pd_sbs_196_21?_encoding=UTF8&pd_rd_i=B07613Y447&pd_rd_r=e4fbb127-0275-11e9-9fc1-87cf5b4d0ae5&pd_rd_w=Nqk5w&pd_rd_wg=hxeRX&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=JE5SQN7W50EE5H58RTGY&psc=1&refRID=JE5SQN7W50EE5H58RTGY HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Furinno-FSP019EX-Indo-Swivel-Shelf/dp/B072ZVWM9F/ref=pd_sbs_196_4?_encoding=UTF8&pd_rd_i=B072ZVWM9F&pd_rd_r=8bb0eab3-0274-11e9-b252-797d8085bc39&pd_rd_w=XKaV0&pd_rd_wg=OioRy&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=ET5RWGXR3K3GQXWHP540&psc=1&refRID=ET5RWGXR3K3GQXWHP540 HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Prosumers-Choice-Bamboo-Rotating-Entertainment/dp/B01LZS2KD9/ref=pd_sbs_196_18?_encoding=UTF8&pd_rd_i=B01LZS2KD9&pd_rd_r=e4fbb127-0275-11e9-9fc1-87cf5b4d0ae5&pd_rd_w=Nqk5w&pd_rd_wg=hxeRX&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=JE5SQN7W50EE5H58RTGY&psc=1&refRID=JE5SQN7W50EE5H58RTGY HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Aleratec-3-Tier-Swivel-Stand-Entertainment/dp/B014LS2K2W/ref=pd_sbs_196_31?_encoding=UTF8&pd_rd_i=B014LS2K2W&pd_rd_r=e4fbb127-0275-11e9-9fc1-87cf5b4d0ae5&pd_rd_w=Nqk5w&pd_rd_wg=hxeRX&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=JE5SQN7W50EE5H58RTGY&psc=1&refRID=JE5SQN7W50EE5H58RTGY HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Prosumers-Choice-Bamboo-Rotating-Entertainment/dp/B01LZS2KD9/ref=pd_sbs_196_1?_encoding=UTF8&pd_rd_i=B01LZS2KD9&pd_rd_r=8bb0eab3-0274-11e9-b252-797d8085bc39&pd_rd_w=XKaV0&pd_rd_wg=OioRy&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=ET5RWGXR3K3GQXWHP540&psc=1&refRID=ET5RWGXR3K3GQXWHP540 HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Aleratec-2-Tier-Swivel-Stand-Entertainment/dp/B01IE7SJ9E/ref=pd_sbs_196_5?_encoding=UTF8&pd_rd_i=B01IE7SJ9E&pd_rd_r=8bb0eab3-0274-11e9-b252-797d8085bc39&pd_rd_w=XKaV0&pd_rd_wg=OioRy&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=ET5RWGXR3K3GQXWHP540&psc=1&refRID=ET5RWGXR3K3GQXWHP540 HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Mount-Turntable-Rotating-Swivel-Tempered/dp/B074V1LL4P/ref=pd_sbs_196_7?_encoding=UTF8&pd_rd_i=B074V1LL4P&pd_rd_r=8bb0eab3-0274-11e9-b252-797d8085bc39&pd_rd_w=XKaV0&pd_rd_wg=OioRy&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=ET5RWGXR3K3GQXWHP540&psc=1&refRID=ET5RWGXR3K3GQXWHP540 HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Oval-TV-Swivel-Stand-BLACK/dp/B01AVLIJ0A/ref=pd_sbs_196_28?_encoding=UTF8&pd_rd_i=B01AVLIJ0A&pd_rd_r=e4fbb127-0275-11e9-9fc1-87cf5b4d0ae5&pd_rd_w=Nqk5w&pd_rd_wg=hxeRX&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=JE5SQN7W50EE5H58RTGY&psc=1&refRID=JE5SQN7W50EE5H58RTGY HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Mount-Turntable-Monitor-Rotating-Platform/dp/B074VGL7VC/ref=pd_sbs_196_10?_encoding=UTF8&pd_rd_i=B074VGL7VC&pd_rd_r=e4fbb127-0275-11e9-9fc1-87cf5b4d0ae5&pd_rd_w=Nqk5w&pd_rd_wg=hxeRX&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=JE5SQN7W50EE5H58RTGY&psc=1&refRID=JE5SQN7W50EE5H58RTGY HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): www.amazon.com:443
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /VIVO-Display-Rotating-Tabletop-STAND-TV00R/dp/B0741DCZMR/ref=pd_sbs_196_10?_encoding=UTF8&pd_rd_i=B0741DCZMR&pd_rd_r=8bb0eab3-0274-11e9-b252-797d8085bc39&pd_rd_w=XKaV0&pd_rd_wg=OioRy&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=ET5RWGXR3K3GQXWHP540&psc=1&refRID=ET5RWGXR3K3GQXWHP540 HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /LapWorks-Screen-Swivel-21x16-Bearings/dp/B009UDTUNG/ref=pd_sbs_196_9?_encoding=UTF8&pd_rd_i=B009UDTUNG&pd_rd_r=8bb0eab3-0274-11e9-b252-797d8085bc39&pd_rd_w=XKaV0&pd_rd_wg=OioRy&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=ET5RWGXR3K3GQXWHP540&psc=1&refRID=ET5RWGXR3K3GQXWHP540 HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Convenience-Concepts-Designs2Go-32-Inch-60-Pounds/dp/B004CYE3PS/ref=pd_sbs_196_11?_encoding=UTF8&pd_rd_i=B004CYE3PS&pd_rd_r=8bb0eab3-0274-11e9-b252-797d8085bc39&pd_rd_w=XKaV0&pd_rd_wg=OioRy&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=ET5RWGXR3K3GQXWHP540&psc=1&refRID=ET5RWGXR3K3GQXWHP540 HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Prosumers-Choice-Bamboo-Swivel-Tablet/dp/B077SKL94J/ref=pd_sbs_196_11?_encoding=UTF8&pd_rd_i=B077SKL94J&pd_rd_r=e4fbb127-0275-11e9-9fc1-87cf5b4d0ae5&pd_rd_w=Nqk5w&pd_rd_wg=hxeRX&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=JE5SQN7W50EE5H58RTGY&psc=1&refRID=JE5SQN7W50EE5H58RTGY HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-https://www.amazon.com:443 "GET /Convenience-Concepts-Designs2Go-32-Inch-60-Pounds/dp/B004CYE3QC/ref=pd_sbs_196_8?_encoding=UTF8&pd_rd_i=B004CYE3QC&pd_rd_r=8bb0eab3-0274-11e9-b252-797d8085bc39&pd_rd_w=XKaV0&pd_rd_wg=OioRy&pf_rd_p=7d5d9c3c-5e01-44ac-97fd-261afd40b865&pf_rd_r=ET5RWGXR3K3GQXWHP540&psc=1&refRID=ET5RWGXR3K3GQXWHP540 HTTP/1.1" 200 None
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/51WeQ0Boa4L._SX679_.jpg HTTP/1.1" 200 17423
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/71xaw0GdBmL._SX679_.jpg HTTP/1.1" 200 27734
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/71fRbPzznaL._SX679_.jpg HTTP/1.1" 200 21150
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/413pD4mlUmL.jpg HTTP/1.1" 200 27638
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/512fsT8O4bL._SX679_.jpg HTTP/1.1" 200 14583
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/813t9gL4MrL._SX679_.jpg HTTP/1.1" 200 31863
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/41mM3r3bM7L.jpg HTTP/1.1" 200 22875
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/714V%2BGHateL._SX679_.jpg HTTP/1.1" 200 39685
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/8179q0UHATL._SX679_.jpg HTTP/1.1" 200 19662
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/813t9gL4MrL._SX679_.jpg HTTP/1.1" 200 31863
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61ptAvv3QtL._SX679_.jpg HTTP/1.1" 200 16725
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/31%2BAv41w0VL.jpg HTTP/1.1" 200 13202
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/81D4Sk9whkL._SX679_.jpg HTTP/1.1" 200 49236
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/51Ybgo9zImL._SX679_.jpg HTTP/1.1" 200 19416
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61sRE8bkhRL._SX679_.jpg HTTP/1.1" 200 16839
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/81M6suqoETL._SX679_.jpg HTTP/1.1" 200 54740
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/81mX6yZX7KL._SX679_.jpg HTTP/1.1" 200 47514
+18-12-24 10:12-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/71bldKjjanL._SX679_.jpg HTTP/1.1" 200 38581
+18-12-24 10:12-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61oWz3c-r7L._SX679_.jpg HTTP/1.1" 200 35503
+18-12-24 10:13-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:13-DEBUG-https://www.amazon.de:443 "GET /SONGMICS-Schreibtisch-Computertisch-Eckschreibtisch-Tastaturauszug/dp/B078PV8F5G/ref=zg_bs_202873031_3?_encoding=UTF8&refRID=0K3SGRD0TQSP6T6CNZ0W HTTP/1.1" 200 None
+18-12-24 10:13-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:13-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/616dvE5jAtL._SX679_.jpg HTTP/1.1" 200 18454
+18-12-24 10:13-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:13-DEBUG-https://www.amazon.de:443 "GET /dp/B07DLM6HP1/ref=psdc_202873031_t4_B010DDY5QI HTTP/1.1" 200 None
+18-12-24 10:13-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:13-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61MSYhHlOXL._SX679_.jpg HTTP/1.1" 200 44037
+18-12-24 10:14-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:14-DEBUG-https://www.amazon.de:443 "GET /Zerone-Eckschreibtisch-Computertisch-Winkelschreibtisch-Spanplatte/dp/B07F1BXRBW/ref=pd_sbs_201_3?_encoding=UTF8&pd_rd_i=B07F1BXRBW&pd_rd_r=85bafc55-0721-11e9-9526-c700fc7563af&pd_rd_w=xner0&pd_rd_wg=mYW1l&pf_rd_p=823c2db5-0a4d-474e-99ed-5858cc6a4d7b&pf_rd_r=WY3CXEAHJH99P0S1YWWE&psc=1&refRID=WY3CXEAHJH99P0S1YWWE HTTP/1.1" 200 None
+18-12-24 10:14-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:14-DEBUG-https://www.amazon.de:443 "GET /L-f%C3%B6rmiger-Computerschreibtisch-Bibliothek-Eckschreibtisch-Arbeiten/dp/B076VBT34X/ref=pd_sbs_201_5?_encoding=UTF8&pd_rd_i=B076VBT34X&pd_rd_r=85bafc55-0721-11e9-9526-c700fc7563af&pd_rd_w=xner0&pd_rd_wg=mYW1l&pf_rd_p=823c2db5-0a4d-474e-99ed-5858cc6a4d7b&pf_rd_r=WY3CXEAHJH99P0S1YWWE&psc=1&refRID=WY3CXEAHJH99P0S1YWWE HTTP/1.1" 200 None
+18-12-24 10:14-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:14-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/51K6W27ADWL._SX679_.jpg HTTP/1.1" 200 17714
+18-12-24 10:14-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:14-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/71zBzlvRMeL._SX679_.jpg HTTP/1.1" 200 26010
+18-12-24 10:14-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:14-DEBUG-https://www.amazon.de:443 "GET /Zerone-Eckschreibtisch-Computertisch-Winkelschreibtisch-Spanplatte/dp/B07F1GZF6D/ref=pd_sbs_201_12?_encoding=UTF8&pd_rd_i=B07F1GZF6D&pd_rd_r=85bafc55-0721-11e9-9526-c700fc7563af&pd_rd_w=xner0&pd_rd_wg=mYW1l&pf_rd_p=823c2db5-0a4d-474e-99ed-5858cc6a4d7b&pf_rd_r=WY3CXEAHJH99P0S1YWWE&psc=1&refRID=WY3CXEAHJH99P0S1YWWE HTTP/1.1" 200 None
+18-12-24 10:14-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:14-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/4127X0XXiEL._SX679_.jpg HTTP/1.1" 200 13605
+18-12-24 10:17-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:17-DEBUG-https://www.amazon.de:443 "GET /M%C3%B6bel-351-001-Winkelkombination-circa-eiche/dp/B00A3NSOW0/ref=pd_sbs_201_39?_encoding=UTF8&pd_rd_i=B00A3NSOW0&pd_rd_r=f1f15188-0721-11e9-84a0-81207e864361&pd_rd_w=xCcFV&pd_rd_wg=lQdY3&pf_rd_p=823c2db5-0a4d-474e-99ed-5858cc6a4d7b&pf_rd_r=13C3CM5GQA5XQH8GB11Z&psc=1&refRID=13C3CM5GQA5XQH8GB11Z HTTP/1.1" 200 None
+18-12-24 10:17-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:17-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61Ednhj1xvL._SX679_.jpg HTTP/1.1" 200 21589
+18-12-24 10:20-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:20-DEBUG-https://www.amazon.de:443 "GET /Blackpoolal-Eckschreibtische-Eckcomputertisch-Computerschreibtisch-Winkelkombination/dp/B07C1NSWR7/ref=sr_1_13?s=kitchen&ie=UTF8&qid=1545617971&sr=1-13&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:20-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:20-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/51DrZfQy98L._SX679_.jpg HTTP/1.1" 200 21913
+18-12-24 10:21-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:21-DEBUG-https://www.amazon.de:443 "GET /FMD-Till-Winkelkombination-205-0-155-0/dp/B004ZKYFLG/ref=sr_1_48?s=kitchen&ie=UTF8&qid=1545618057&sr=1-48&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:21-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:21-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61nOHy4wuOL._SX679_.jpg HTTP/1.1" 200 8229
+18-12-24 10:24-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:24-DEBUG-https://www.amazon.de:443 "GET /Stella-Trading-Office-Winkelkombinantion-Holzdekor/dp/B00B9DYD4Q/ref=sr_1_4?s=kitchen&ie=UTF8&qid=1545618112&sr=1-4&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:24-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:24-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/51VTXH5uxJL._SX679_.jpg HTTP/1.1" 200 15440
+18-12-24 10:25-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:25-DEBUG-https://www.amazon.de:443 "GET /Homcom-Eckschreibtisch-Schreibtisch-Computertisch-Staufach/dp/B07BKWCYHX/ref=sr_1_27?s=kitchen&ie=UTF8&qid=1545618312&sr=1-27&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:25-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:25-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61f5qA16RFL._SX679_.jpg HTTP/1.1" 200 18386
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /moebel-dich-auf-Schreibtisch-Eckschreibtisch-Winkelschreibtisch-Walnuss/dp/B071VMT12W/ref=sr_1_51?s=kitchen&ie=UTF8&qid=1545618349&sr=1-51&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:26-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/71DLBrHmD3L._SX679_.jpg HTTP/1.1" 200 21354
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /moebel-dich-auf-Schreibtisch-Eckschreibtisch-Winkelschreibtisch-Walnuss/dp/B071VMT12W/ref=sr_1_51?s=kitchen&ie=UTF8&qid=1545618349&sr=1-51&keywords=corner+deskhttps://www.amazon.de/L-f%C3%B6rmiger-Computerschreibtisch-Bibliothek-Eckschreibtisch-Arbeiten/dp/B076V4RDH4/ref=sr_1_79?s=kitchen&ie=UTF8&qid=1545618369&sr=1-79&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /L-f%C3%B6rmiger-Computerschreibtisch-Bibliothek-Eckschreibtisch-Arbeiten/dp/B076V4RDH4/ref=sr_1_79?s=kitchen&ie=UTF8&qid=1545618369&sr=1-79&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/71DLBrHmD3L._SX679_.jpg HTTP/1.1" 200 21354
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:26-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61yw7-DLI-L._SX679_.jpg HTTP/1.1" 200 38501
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /dp/B07DLM6HP1/ref=psdc_202873031_t4_B010DDY5QI HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /L-f%C3%B6rmiger-Computerschreibtisch-Bibliothek-Eckschreibtisch-Arbeiten/dp/B076VBT34X/ref=pd_sbs_201_5?_encoding=UTF8&pd_rd_i=B076VBT34X&pd_rd_r=85bafc55-0721-11e9-9526-c700fc7563af&pd_rd_w=xner0&pd_rd_wg=mYW1l&pf_rd_p=823c2db5-0a4d-474e-99ed-5858cc6a4d7b&pf_rd_r=WY3CXEAHJH99P0S1YWWE&psc=1&refRID=WY3CXEAHJH99P0S1YWWE HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /Zerone-Eckschreibtisch-Computertisch-Winkelschreibtisch-Spanplatte/dp/B07F1BXRBW/ref=pd_sbs_201_3?_encoding=UTF8&pd_rd_i=B07F1BXRBW&pd_rd_r=85bafc55-0721-11e9-9526-c700fc7563af&pd_rd_w=xner0&pd_rd_wg=mYW1l&pf_rd_p=823c2db5-0a4d-474e-99ed-5858cc6a4d7b&pf_rd_r=WY3CXEAHJH99P0S1YWWE&psc=1&refRID=WY3CXEAHJH99P0S1YWWE HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /M%C3%B6bel-351-001-Winkelkombination-circa-eiche/dp/B00A3NSOW0/ref=pd_sbs_201_39?_encoding=UTF8&pd_rd_i=B00A3NSOW0&pd_rd_r=f1f15188-0721-11e9-84a0-81207e864361&pd_rd_w=xCcFV&pd_rd_wg=lQdY3&pf_rd_p=823c2db5-0a4d-474e-99ed-5858cc6a4d7b&pf_rd_r=13C3CM5GQA5XQH8GB11Z&psc=1&refRID=13C3CM5GQA5XQH8GB11Z HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /FMD-Till-Winkelkombination-205-0-155-0/dp/B004ZKYFLG/ref=sr_1_48?s=kitchen&ie=UTF8&qid=1545618057&sr=1-48&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /Blackpoolal-Eckschreibtische-Eckcomputertisch-Computerschreibtisch-Winkelkombination/dp/B07C1NSWR7/ref=sr_1_13?s=kitchen&ie=UTF8&qid=1545617971&sr=1-13&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /Zerone-Eckschreibtisch-Computertisch-Winkelschreibtisch-Spanplatte/dp/B07F1GZF6D/ref=pd_sbs_201_12?_encoding=UTF8&pd_rd_i=B07F1GZF6D&pd_rd_r=85bafc55-0721-11e9-9526-c700fc7563af&pd_rd_w=xner0&pd_rd_wg=mYW1l&pf_rd_p=823c2db5-0a4d-474e-99ed-5858cc6a4d7b&pf_rd_r=WY3CXEAHJH99P0S1YWWE&psc=1&refRID=WY3CXEAHJH99P0S1YWWE HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /Homcom-Eckschreibtisch-Schreibtisch-Computertisch-Staufach/dp/B07BKWCYHX/ref=sr_1_27?s=kitchen&ie=UTF8&qid=1545618312&sr=1-27&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /Stella-Trading-Office-Winkelkombinantion-Holzdekor/dp/B00B9DYD4Q/ref=sr_1_4?s=kitchen&ie=UTF8&qid=1545618112&sr=1-4&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /SONGMICS-Schreibtisch-Computertisch-Eckschreibtisch-Tastaturauszug/dp/B078PV8F5G/ref=zg_bs_202873031_3?_encoding=UTF8&refRID=0K3SGRD0TQSP6T6CNZ0W HTTP/1.1" 200 None
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //HOMCOM-Eckschreibtisch-Schreibtisch-Computertisch-Staufach/product-reviews/B07BKWCYHX/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //M%C3%B6bel-351-001-Winkelkombination-circa-eiche/product-reviews/B00A3NSOW0/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET /moebel-dich-auf-Schreibtisch-Eckschreibtisch-Winkelschreibtisch-Walnuss/dp/B071VMT12W/ref=sr_1_51?s=kitchen&ie=UTF8&qid=1545618349&sr=1-51&keywords=corner+deskhttps://www.amazon.de/L-f%C3%B6rmiger-Computerschreibtisch-Bibliothek-Eckschreibtisch-Arbeiten/dp/B076V4RDH4/ref=sr_1_79?s=kitchen&ie=UTF8&qid=1545618369&sr=1-79&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //Zerone-Eckschreibtisch-Computertisch-Winkelschreibtisch-Spanplatte/product-reviews/B07F1GZF6D/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //SONGMICS-Computertisch-Eckschreibtisch-Winkelkombination-Tastaturauszug/product-reviews/B010DDY5QI/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //Stella-Trading-Office-Winkelkombinantion-Holzdekor/product-reviews/B00B9DYD4Q/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //Zerone-Eckschreibtisch-Computertisch-Winkelschreibtisch-Spanplatte/product-reviews/B07F1GZF6D/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //HOMCOM-Eckschreibtisch-Schreibtisch-Computertisch-Staufach/product-reviews/B07BKWCYHX/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //M%C3%B6bel-351-001-Winkelkombination-circa-eiche/product-reviews/B00A3NSOW0/ref=cm_cr_arp_d_viewpnt_rgt?ie=UTF8&filterByStar=critical&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //FMD-Till-Winkelkombination-205-0-155-0/product-reviews/B004ZKYFLG/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //L-f%C3%B6rmiger-Computerschreibtisch-Bibliothek-Eckschreibtisch-Arbeiten/product-reviews/B076VBT34X/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //Blackpoolal-Eckschreibtische-Eckcomputertisch-Computerschreibtisch-Winkelkombination/product-reviews/B07C1NSWR7/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-INFO-way 1
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //Zerone-Eckschreibtisch-Computertisch-Winkelschreibtisch-Spanplatte/product-reviews/B07F1GZF6D/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //Zerone-Eckschreibtisch-Computertisch-Winkelschreibtisch-Spanplatte/product-reviews/B07F1BXRBW/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-INFO-Getting reviews' links
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //SONGMICS-Computertisch-Eckschreibtisch-Winkelkombination-Tastaturauszug/product-reviews/B010DDY5QI/ref=cm_cr_arp_d_viewpnt_rgt?ie=UTF8&filterByStar=critical&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //HOMCOM-Eckschreibtisch-Schreibtisch-Computertisch-Staufach/product-reviews/B07BKWCYHX/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //Stella-Trading-Office-Winkelkombinantion-Holzdekor/product-reviews/B00B9DYD4Q/ref=cm_cr_arp_d_viewpnt_rgt?ie=UTF8&filterByStar=critical&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //moebel-dich-auf-Schreibtisch-Eckschreibtisch-Winkelschreibtisch-Walnuss/product-reviews/B071VMT12W/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-INFO-Last page's review(s)
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //Blackpoolal-Eckschreibtische-Eckcomputertisch-Computerschreibtisch-Winkelkombination/product-reviews/B07C1NSWR7/ref=cm_cr_arp_d_viewpnt_rgt?ie=UTF8&filterByStar=critical&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //L-f%C3%B6rmiger-Computerschreibtisch-Bibliothek-Eckschreibtisch-Arbeiten/product-reviews/B076VBT34X/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-https://www.amazon.de:443 "GET //M%C3%B6bel-351-001-Winkelkombination-circa-eiche/product-reviews/B00A3NSOW0/ref=cm_cr_arp_d_viewpnt_rgt?ie=UTF8&filterByStar=critical&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-INFO-Page 1's review(s)
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:26-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET /L-f%C3%B6rmiger-Computerschreibtisch-Bibliothek-Eckschreibtisch-Arbeiten/dp/B076V4RDH4/ref=sr_1_79?s=kitchen&ie=UTF8&qid=1545618369&sr=1-79&keywords=corner+desk HTTP/1.1" 200 None
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //SONGMICS-Computertisch-Eckschreibtisch-Winkelkombination-Tastaturauszug/product-reviews/B010DDY5QI/ref=cm_cr_arp_d_paging_btm_2?ie=UTF8&filterByStar=critical&pageNumber=2&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-INFO-Last page's review(s)
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //FMD-Till-Winkelkombination-205-0-155-0/product-reviews/B004ZKYFLG/ref=cm_cr_arp_d_viewpnt_rgt?ie=UTF8&filterByStar=critical&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-INFO-Last page's review(s)
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //L-f%C3%B6rmiger-Computerschreibtisch-Bibliothek-Eckschreibtisch-Arbeiten/product-reviews/B076VBT34X/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //Zerone-Eckschreibtisch-Computertisch-Winkelschreibtisch-Spanplatte/product-reviews/B07F1BXRBW/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //Blackpoolal-Eckschreibtische-Eckcomputertisch-Computerschreibtisch-Winkelkombination/product-reviews/B07C1NSWR7/ref=cm_cr_arp_d_viewpnt_rgt?ie=UTF8&filterByStar=critical&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //Stella-Trading-Office-Winkelkombinantion-Holzdekor/product-reviews/B00B9DYD4Q/ref=cm_cr_arp_d_viewpnt_rgt?ie=UTF8&filterByStar=critical&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //moebel-dich-auf-Schreibtisch-Eckschreibtisch-Winkelschreibtisch-Walnuss/product-reviews/B071VMT12W/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-INFO-Last page's review(s)
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //FMD-Till-Winkelkombination-205-0-155-0/product-reviews/B004ZKYFLG/ref=cm_cr_arp_d_viewpnt_rgt?ie=UTF8&filterByStar=critical&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-INFO-Last page's review(s)
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //Zerone-Eckschreibtisch-Computertisch-Winkelschreibtisch-Spanplatte/product-reviews/B07F1BXRBW/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-INFO-Last page's review(s)
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //moebel-dich-auf-Schreibtisch-Eckschreibtisch-Winkelschreibtisch-Walnuss/product-reviews/B071VMT12W/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-INFO-Last page's review(s)
+18-12-24 10:27-INFO-Page 2's review(s)
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-INFO-way 1
+18-12-24 10:27-INFO-Last page's review(s)
+18-12-24 10:27-INFO-Getting reviews' links
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //SONGMICS-Computertisch-Eckschreibtisch-Winkelkombination-Tastaturauszug/product-reviews/B010DDY5QI/ref=cm_cr_arp_d_paging_btm_3?ie=UTF8&filterByStar=critical&pageNumber=3&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-INFO-Last page's review(s)
+18-12-24 10:27-INFO-Page 3's review(s)
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //SONGMICS-Computertisch-Eckschreibtisch-Winkelkombination-Tastaturauszug/product-reviews/B010DDY5QI/ref=cm_cr_arp_d_paging_btm_4?ie=UTF8&filterByStar=critical&pageNumber=4&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): www.amazon.de:443
+18-12-24 10:27-DEBUG-https://www.amazon.de:443 "GET //SONGMICS-Computertisch-Eckschreibtisch-Winkelkombination-Tastaturauszug/product-reviews/B010DDY5QI/ref=cm_cr_arp_d_paging_btm_4?ie=UTF8&filterByStar=critical&pageNumber=4&reviewerType=all_reviews HTTP/1.1" 200 None
+18-12-24 10:27-INFO-Last page's review(s)
+18-12-24 10:27-INFO-数据写入Excel......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/616dvE5jAtL._SX679_.jpg HTTP/1.1" 200 18454
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=17.28 to DejaVu Sans ('C:\\Users\\Administrator.SKY-20180417UWL\\Desktop\\spdier2\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+18-12-24 10:27-DEBUG-findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=30.0 to DejaVu Sans ('C:\\Users\\Administrator.SKY-20180417UWL\\Desktop\\spdier2\\venv\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B010DDY5QI  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61MSYhHlOXL._SX679_.jpg HTTP/1.1" 200 44037
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B07DLM6HP1  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/51K6W27ADWL._SX679_.jpg HTTP/1.1" 200 17714
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B07F1BXRBW  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/71zBzlvRMeL._SX679_.jpg HTTP/1.1" 200 26010
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B076VBT34X  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/4127X0XXiEL._SX679_.jpg HTTP/1.1" 200 13605
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B07F1GZF6D  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61Ednhj1xvL._SX679_.jpg HTTP/1.1" 200 21589
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B00A3NSOW0  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/51DrZfQy98L._SX679_.jpg HTTP/1.1" 200 21913
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B07C1NSWR7  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61nOHy4wuOL._SX679_.jpg HTTP/1.1" 200 8229
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B004ZKYFLG  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/51VTXH5uxJL._SX679_.jpg HTTP/1.1" 200 15440
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B00B9DYD4Q  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61f5qA16RFL._SX679_.jpg HTTP/1.1" 200 18386
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B07BKWCYHX  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/71DLBrHmD3L._SX679_.jpg HTTP/1.1" 200 21354
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B071VMT12W  ......
+18-12-24 10:27-DEBUG-Starting new HTTPS connection (1): images-na.ssl-images-amazon.com:443
+18-12-24 10:27-DEBUG-https://images-na.ssl-images-amazon.com:443 "GET /images/I/61yw7-DLI-L._SX679_.jpg HTTP/1.1" 200 38501
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-DEBUG-update_title_pos
+18-12-24 10:27-INFO-准备翻译评论--ASIN: B076V4RDH4  ......
+18-12-24 10:27-INFO-Excel写入完成......
